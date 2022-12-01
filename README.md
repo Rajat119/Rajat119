@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev field 
 - 🌱 I’m currently learning Dsa and Cp
 - 💞️ I’m looking to collaborate on dev projects 
-- 📫 How to reach me ....
+- 📫 MailId-rajatsharma3327759@gmail.com
 
 <!---
 Rajat119/Rajat119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
