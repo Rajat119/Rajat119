@@ -14,9 +14,9 @@
 
 ## Socials
 <p> <img src="https://komarev.com/ghpvc/?username=rajat119&label=Profile%20views&color=0e75b6&style=flat" alt="rajat119" /> </p>
-<a href="https://www.linkedin.com/in/rajat-sharma-063b69132/" target="blank"><img align="center" src="https://camo.githubusercontent.com/ba86bf38e35b60d10762fe2a2f549ea31c53f4d24a102ba1838388e74d41b65c/68747470733a2f2f6368656574616864657369676e73747564696f2e636f6d2f4e4870686f746f6772617068792f77702d636f6e74656e742f75706c6f6164732f323031342f30322f69636f6e2d6c696e6b6564696e2e706e67" alt="rajat sharma" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/rajat119" target="blank"><img align="center" src="https://www.bing.com/th?id=AMMS_70d24204b5762e87b74eac2eeac1d390&w=116&h=116&c=7&o=6&dpr=1.5&pid=SANGAM" alt="rajat119" height="40" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/rajat-sharma-063b69132/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.leetcode.com/rajat119" target="blank"><img src="https://skillicons.dev/icons?i=github"></a>
+<a href="mailto:rajatsharma3327759@gmail.com?subject=Hey%20Rajat&body=Hi%20there"><img src="https://skillicons.dev/icons?i=gmail"></a>
 
 ## Languages and Tools
 <p align="center">
