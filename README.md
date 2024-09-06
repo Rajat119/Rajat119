@@ -16,7 +16,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=rajat119&label=Profile%20views&color=0e75b6&style=flat" alt="rajat119" /> </p>
 <a href="https://www.linkedin.com/in/rajat-sharma-063b69132/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="https://www.leetcode.com/rajat119" target="blank"><img src="https://skillicons.dev/icons?i=github"></a>
-<a href="mailto:rajatsharma3327759@gmail.com?subject=Hey%20Rajat&body=Hi%20there"><img src="https://skillicons.dev/icons?i=gmail"></a>
+<a href="mailto:rajatsharma3327759@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 
 ## Languages and Tools
 <p align="center">
